@@ -1,5 +1,6 @@
 const WIDTH = 7
 const HEIGHT = 6
+
 let currentPlayer = 1
 let board = []
 
